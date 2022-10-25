@@ -9,18 +9,19 @@ module.exports = {
     client: 'pg',
     connection: {
       database: 'Marcy-Merch',
-      user:     'postgres',
-      password: ''
+      user:     'aneika',
+      password: '2311'
     }
   },
 
+  
 
   production: {
     client: 'pg',
     connection: {
       database: 'Marcy-Merch',
-      user:     'postgres',
-      password: ''
+      user:     'aneika',
+      password: '2311'
     },
     pool: {
       min: 2,

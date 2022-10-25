@@ -20,7 +20,7 @@
 > Additional opportunities to expand the scope of the project are filtering the search results and adding a mailing list option for users. 
 
 ## ERD Diagram 
-> * [ERD] (https://app.diagrams.net/#G1raM-CxW9bvAoqYTAE-9UqZsmRfxK_htC)
+> https://app.diagrams.net/#G1raM-CxW9bvAoqYTAE-9UqZsmRfxK_htC
 
 ## Wireframes 
-> * [Figma Wireframe] (https://www.figma.com/file/H3gHJNTt2Gdt9xD56TahEx/Untitled?node-id=0%3A1)
+> https://www.figma.com/file/H3gHJNTt2Gdt9xD56TahEx/Untitled?node-id=0%3A1

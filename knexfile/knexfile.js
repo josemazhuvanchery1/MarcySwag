@@ -33,5 +33,4 @@ module.exports = {
   }
 
 };
-//This is a comment
-//this is stupid
+//stupid
